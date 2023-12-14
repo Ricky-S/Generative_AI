@@ -134,6 +134,12 @@ all_sentiments
 
 + To carry out a task that isn’t easy to define in a prompt
 
++ To help LLM gain specific knowledge. medical, legal, etc.
+
++ To get a smaller model to perform a task. low cost/latency to deploy. Large(100B+ params), small (1B params). can run on mobile/edge devices.
++ 
++ 
+
 
 
 
